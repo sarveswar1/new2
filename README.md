@@ -1,2 +1,2 @@
 # new2
-It is a sample repository
+# Hi this is a new repository
